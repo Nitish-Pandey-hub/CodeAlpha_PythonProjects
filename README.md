@@ -78,6 +78,6 @@ These projects were completed as part of the **CodeAlpha Python Programming Inte
 
 ## 👩‍💻 Author
 
-**Nitish pandey**
+**Nitish Pandey**
 
 Thank you for visiting this repository!
